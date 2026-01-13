@@ -14,3 +14,17 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 console.log(typeof(booleanIsLoggedIn));
 console.log(booleanIsLoggedIn)
+
+//***Operations***/
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+// console.log(basic arthmetic + - / * %)
+
+let str1 = "First Name"
+let str2 = " Last Name"
+let str3 = str1 + str2;
+
+console.log(str3);
