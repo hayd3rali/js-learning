@@ -6,4 +6,5 @@ let name = "sam"
 let age = 20
 let isLoggedIn = false
 let state = null
-console.log(age);
+
+console.log(typeof age)
